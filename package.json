@@ -1,6 +1,6 @@
 {
   "name": "gulp-md5-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "scan files and generate md5 json file for future use",
   "main": "index.js",
   "repository": "git@github.com:xiaohu-developer/gulp-md5-cache.git",
